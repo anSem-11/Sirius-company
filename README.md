@@ -14,6 +14,8 @@ Page for Sirius company with mobile version
 * Мобильная версия;
 * Понятная верстка с применением БЭМ.
 
+Посмотреть интерактивную версию страницы можно по ссылке ansem-11.github.io/sirius-company/
+
 # Install instruction
 
 * git clone https://github.com/anSem-11/Sirius-company.git
